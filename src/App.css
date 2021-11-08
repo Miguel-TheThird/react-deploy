@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #282c34;
 }
 
 .App-logo {
@@ -9,6 +10,11 @@
 
 .p {
   color: red;
+}
+
+.h1 {
+  color: chartreuse;
+  background-color: #282c34;
 }
 
 @media (prefers-reduced-motion: no-preference) {

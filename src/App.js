@@ -1,11 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
 import Bleh from './components/Bleh';
+import AnotherOne from './components/AnotherOne';
 
 function App() {
   return (
     <div className="App">
+      
       <header className="App-header">
+      <AnotherOne/>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
